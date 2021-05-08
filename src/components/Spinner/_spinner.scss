@@ -1,0 +1,10 @@
+.spinner-section{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    .spinner{
+      margin: auto;
+    }
+  }

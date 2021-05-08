@@ -1,0 +1,22 @@
+.navsection {
+  display: block;
+  width: 100%;
+  .brand-name {
+    font-weight: bold;
+  }
+  .menubuttons {
+    float: right;
+    color: #292b2c;
+    padding: 0.5rem;
+    font-weight: bold;
+    font-family: "calibri";
+    &:hover {
+      color: #fff;
+    }
+  }
+  .menubuttons-active {
+    color: #fff;
+    background: #8c1a8c;
+    border-radius: 2em;
+  }
+}
