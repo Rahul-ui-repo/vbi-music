@@ -33,7 +33,7 @@ To Visit App: localhost:3000/
 
 Deployment Platform: Heroku.com
 
-Production URL: https://music-vbi.herokuapp.com/playlists
+Production URL: https://music-vbi.herokuapp.com/
 
 
 ## Author/Developer
