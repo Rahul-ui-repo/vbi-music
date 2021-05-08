@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# VBI Music
+A responsive React application showing the list of songs. Its wonderful responsive design and user friendly UI is the uniqueness of this Project. The Create Playlist feature allows user to create new playlist and add new songs to the playlist. The playlist data is cached in the local storage. It has a search functionality for searching song and has multiple resusable components. It is animated and a beautiful application. 
+Check out the application @ https://music-vbi.herokuapp.com/playlists
 
-## Available Scripts
 
-In the project directory, you can run:
+## Technologies Used
+React, HTML, SCSS, JavaScript, Bootstrap
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Unit Testing
+Basic unit testing has been performed manually and bugs were fixed. All the functions calls, API calls, requests & response etc. has been tested several times before Production deployment to avoid unexpected crashing/slowness/errors in application. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+## Installation & Setup Instruction
+Clone down this repository. You will need node and npm installed globally on your machine.
+Please run the commands mention below in Command Prompt.
+To Clone: git clone https://github.com/Rahul-ui-repo/vbi-music.git
+For Installation: npm install
+To Start Server: npm start
+To Visit App: localhost:3000/
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Deployment & Production URL
+Deployment Platform: Heroku.com
+Production URL: https://music-vbi.herokuapp.com/playlists
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Author/Developer
+Rahul Shaw
 
 ## Learn More
-
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Thank You !!!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
