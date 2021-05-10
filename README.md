@@ -1,7 +1,7 @@
 # VBI Music
 
 A responsive React application showing the list of songs. Its wonderful responsive design and user friendly UI is the uniqueness of this Project. The Create Playlist feature allows user to create new playlist and add new songs to the playlist. The playlist data is cached in the local storage. It has a search functionality for searching song and has multiple resusable components. It is animated and a beautiful application. 
-Check out the application @ https://music-vbi.herokuapp.com/playlists
+Check out the application @ https://music-vbi.herokuapp.com/
 
 
 ## Technologies Used
